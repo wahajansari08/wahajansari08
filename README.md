@@ -6,7 +6,7 @@ const developer = {
   role: "Full Stack Web Developer",
   location: "Karachi, Pakistan",
   technologies: ["React", "Next.js", "WordPress", "Shopify", "Node.js"],
-  currentlyWorkingOn: "AI Tools & Resume Platforms"
+  currentlyWorkingOn: "AI Tools, CRMs & Resume Platforms"
 };
 ```
 
